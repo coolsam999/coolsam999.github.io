@@ -3,8 +3,8 @@
    "how to change link color." */
 
 body {
-  background-color: darkslategray;
-  color: white;
+  background-color: orangered;
+  color: black;
   font-family: Verdana;
 }
 
@@ -31,3 +31,4 @@ body {
 .active {
   background-color: #04AA6D; /* Add an active/current color */
 }
+
